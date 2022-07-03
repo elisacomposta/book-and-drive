@@ -1,4 +1,4 @@
-Project for _Software engineering_ university course (2021-2022)
+Project for the _Software engineering_ university course (2021-2022)
 
 # Book & Drive
 Simple website to book driving lesson.
