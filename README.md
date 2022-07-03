@@ -1,7 +1,7 @@
 Project for _Software engineering_ university course (2021-2022)
 
 # Book & Drive
-Driving lesson booking management implementation.
+Simple website to book driving lesson.
 
 More details about the realization of this project can be found in the [wiki](https://github.com/elisacomposta/book-and-drive/wiki) section of this repo.<br>
 Here are some useful links:
